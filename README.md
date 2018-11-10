@@ -4,12 +4,13 @@
 ### @d 18111011
 
 ## @a Prepare the Project
-
+```sh
 npm install zeplin-extension-style-kit  
 npm install request  
 npm install net  
 npm install tls  
 npm install fs  
+```
 
 
 ## @a Migrate experimental code from my-zeplin-x-181026
