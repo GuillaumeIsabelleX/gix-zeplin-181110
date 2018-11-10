@@ -4,7 +4,7 @@
 ### @d 18111011
 
 ## @a Prepare the Project
-```sh
+```bash
 npm install zeplin-extension-style-kit  
 npm install request  
 npm install net  
